@@ -1,4 +1,3 @@
-//AOJ0595 ACCEPTED
 #include <iostream>
 #include <cstdio>
 #include <string>
