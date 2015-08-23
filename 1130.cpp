@@ -57,4 +57,5 @@ int main(){
         solve(sx, sy);
         cout << ans << endl;
     }
+    return 0;
 }
