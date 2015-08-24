@@ -50,7 +50,6 @@ int main(){
         string num1, num2;
         cin >> num1 >> num2;
         int ans = toInt(num1) + toInt(num2);
-        cout << "output---";
         cout << toMCXI(ans) << endl;
     }
 }
